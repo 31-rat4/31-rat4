@@ -1,4 +1,22 @@
 <strong><h1 align="center">💾 31-rat4 (Pi-ratA) 💾</h1></strong>
+<pre align="center">
+                                                                       
+                                                                       
+                                                                   .   
+   L                      j.                                      ,W   
+   #K:                    EW,                   .. GEEEEEEEL     i##   
+   :K#t      jt           E##j                 ;W, ,;;L#K;;.    f###   
+     L#G.   G#t           E###D.              j##,    t#E      G####   
+      t#W,  E#t .......   E#jG#W;            G###,    t#E    .K#Ki##   
+   .jffD##f E#t WTFMYBOY. E#t t##f         :E####,    t#E   ,W#D.,##   
+  .fLLLD##L E#t           E#t  :K#E:      ;W#DG##,    t#E  i##E,,i##,  
+      ;W#i  E#t           E#KDDDD###i    j###DW##,    t#E ;DDDDDDE##DGi
+     j#E.   E#t           E#f,t#Wi,,,   G##i,,G##,    t#E        ,##   
+   .D#f     E#t           E#t  ;#W:   :K#K:   L##,    t#E        ,##   
+   KW,      tf,           DWi   ,KK: ;##D.    L##,     fE        .E#   
+   G.                                ,,,      .,,       :          t   
+                                                                       
+</pre>
 <h2 align="center">There is nothing we can't do. </h2>
 <h3 align="center">Fullstack developer from Brazil</h3>
 
