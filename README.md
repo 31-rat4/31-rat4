@@ -43,6 +43,17 @@
         <p>The Book "Black Hat Python", by ~Justin Seitz~, but in Go language</p>
       </td>
     </tr>
+    <tr> 
+      <td>
+        <a href="https://github.com/31-rat4/math-prandini">math-prandini</a>
+      </td>
+      <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      </td> 
+        <td>
+        <p>Life Applied Mathematics Course</p>
+      </td>
+    </tr>
   </table>
   
 </section>
