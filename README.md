@@ -32,6 +32,17 @@
         <p>RUST Bitcoin based Blockchain for experiments</p>
       </td>
     </tr>
+     <tr> 
+      <td>
+        <a href="https://github.com/31-rat4/black-hat-go">black-hat-go</a>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+      </td> 
+        <td>
+        <p>The Book "Black Hat Python", by ~Justin Seitz~, but in Go language</p>
+      </td>
+    </tr>
   </table>
   
 </section>
