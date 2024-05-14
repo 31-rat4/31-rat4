@@ -1,4 +1,4 @@
-<strong><h1 align="center">💾 31-rat4 (Pi-ratA) 💾</h1></strong>
+<strong><h1 align="center">🔗 π + rat = 31-rat4  💾</h1></strong>
 <pre align="center">
                                                                        
                                                                        
