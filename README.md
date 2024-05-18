@@ -85,7 +85,7 @@
     </tr>
   </table>
 
-<script src="https://gist.github.com/31-rat4/c7784c8088bee7bd4165cd8c65fcbc04.js"></script>
+
   
 </section>
 
