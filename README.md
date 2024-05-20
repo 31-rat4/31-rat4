@@ -58,7 +58,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
       </td> 
         <td>
-        <p>The Book "Black Hat Python", by ~Justin Seitz~, but in Go language</p>
+        <p>The Book "Black Hat Go"</p>
       </td>
     </tr>
     <tr> 
