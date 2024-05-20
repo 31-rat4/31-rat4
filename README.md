@@ -1,4 +1,8 @@
 <strong><h1 align="center">🔗 π + rat = 31-rat4  💾</h1></strong>
+<h3 align="center">Wired
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pirata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pirata/" height="30" width="40" /></a>
+Brazil</h3>
+
 <pre align="center">
                                                                        
                                                                        
@@ -17,13 +21,20 @@
    G.                                ,,,      .,,       :          t   
                                                                        
 </pre>
-<h2 align="center">There is nothing we can't do. </h2>
-<h3 align="center">Fullstack developer from Brazil</h3>
+<blockquote align="center">
+You have no enemies, you say? <br>
+Alas, my friend, the boast is poor.<br>
+He who has mingled in the fray of duty that the brave endure, must have made foes.<br>
+If you have none, small is the work that you have done.<br>
+You’ve hit no traitor on the hip. You’ve dashed no cup from perjured lip.<br>
+You’ve never turned the wrong to right. You’ve been a coward in the fight.<br>
+</blockquote>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pirata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pirata/" height="30" width="40" /></a>
-</p>
+
+
+
+
+
 
 <section>
   <h3>Working Projects</h3>
