@@ -40,17 +40,17 @@
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/pirata/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pirata/" height="30" width="40" /></a>
 </h3>
 <hr>
-<section>
+<section align="center">
    <h3>Working Projects</h3>
-   <table>
+   <table width="100%" align="center">
       <tr>
-         <th>
+         <th >
             Project
          </th>
-         <th>
+         <th >
             Language
          </th>
-         <th>
+         <th >
             Description
          </th>
       </tr>
