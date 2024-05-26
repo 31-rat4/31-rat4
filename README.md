@@ -41,7 +41,7 @@
 
 <img width="100%" align="center" src="/pi2.gif" />
 
-<hr>
+
 
 
 <section>
