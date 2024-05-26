@@ -42,66 +42,7 @@
 <img width="100%" align="center" src="/pi2.gif" />
 
 <hr>
-<section align="center">
-   <h3>Working Projects</h3>
-   <table width="100%" align="center">
-      <tr>
-         <th >
-            Project
-         </th>
-         <th >
-            Language
-         </th>
-         <th >
-            Description
-         </th>
-      </tr>
-      <tr>
-         <td>
-            <a href="https://github.com/31-rat4/ruschain">ruschain</a>
-         </td>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />   
-         </td>
-         <td>
-            <p>RUST Bitcoin based Blockchain for experiments</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <a href="https://github.com/31-rat4/black-hat-go">black-hat-go</a>
-         </td>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-         </td>
-         <td>
-            <p>The Book "Black Hat Go"</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <a href="https://github.com/31-rat4/math-prandini">math-prandini</a>
-         </td>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-         </td>
-         <td>
-            <p>Life Applied Mathematics Course</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <a href="https://github.com/31-rat4/my-nature-of-code">my-nature-of-code</a>
-         </td>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-         </td>
-         <td>
-            <p>The Nature of Code Book, by ~Daniel Shiffman, with my touch</p>
-         </td>
-      </tr>
-   </table>
-</section>
+
 
 <section>
    <hr>
