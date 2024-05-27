@@ -46,7 +46,7 @@
 
 <section>
    <hr>
-   <h3 align="center">Wired
+   <h3 align="right">Wired
       <a href="https://www.linkedin.com/in/pirata/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pirata/" height="30" width="40" /></a>
    </h3>
    <hr>
