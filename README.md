@@ -41,9 +41,6 @@
 
 <img width="100%" align="center" src="/pi2.gif" />
 
-
-
-
 <section>
    <hr>
    <h3 align="right">Wired
