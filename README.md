@@ -39,7 +39,7 @@
                                                                        
 </pre>
 
-<img width="100%" align="center" src="/pi2.gif" />
+<!-- <img width="100%" align="center" src="/pi2.gif" /> -->
 
 <section>
    <hr>
