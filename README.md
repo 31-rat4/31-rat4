@@ -6,17 +6,19 @@
 
 
 <section>
-   <img align="right" width="30%"  src="/pi1.gif" />
+   <img align="right" width="40%"  src="/pi1.gif" />
    <blockquote align="left" width="70%">
-      You have no enemies, you say? <br><br>
-      Alas, my friend, the boast is poor.<br><br>
-      He who has mingled in the fray of duty that the brave endure, must have made foes.<br><br>
-      If you have none, small is the work that you have done.<br><br>
-      You’ve hit no traitor on the hip. You’ve dashed no cup from perjured lip.<br><br>
-      You’ve never turned the wrong to right. You’ve been a coward in the fight.<br>
+      When the pawn hits the conflicts he thinks like a king<br><br>
+      What he knows throws the blows when he goes to the fight<br><br>
+      And he'll win the whole thing 'fore he enters the ring<br><br>
+      There's no body to batter when your mind is your might<br><br>
+      So when you go solo, you hold your own hand<br><br>
+      And remember that depth is the greatest of heights<br><br>
+      And if you know where you stand, then you know where to land<br><br>
+      And if you fall it won't matter, cuz you'll know that you're right<br><br>
    </blockquote>
    <em>
-      <p align="center">~Charles Mackay</p>
+      <p align="center">~Fiona Apple</p>
    </em>
 </section>
 
